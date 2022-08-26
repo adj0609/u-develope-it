@@ -1,0 +1,29 @@
+{
+  "name": "u-develope-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inputCheck.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adj0609/u-develope-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adj0609/u-develope-it/issues"
+  },
+  "homepage": "https://github.com/adj0609/u-develope-it#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "jest": "^29.0.1",
+    "jext": "^0.4.3"
+  }
+}
